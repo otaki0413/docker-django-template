@@ -1,0 +1,2 @@
+# docker-django-template
+dockerとdjangoで環境構築をするときのテンプレートリポジトリ
